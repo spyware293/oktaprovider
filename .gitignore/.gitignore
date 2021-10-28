@@ -1,0 +1,13 @@
+.asscache
+.idea
+build
+out
+.gradle
+classes
+*.iml
+.DS_Store
+*~
+bin/
+.classpath
+.project
+.settings/
